@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = steve.watros@gmail.com
+	name = Steve Watros
